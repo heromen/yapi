@@ -1,5 +1,5 @@
 {
-  "port": "3000",
+  "port": "3011",
   "adminAccount": "admin@admin.com",
   "db": {
     "servername": "127.0.0.1",
